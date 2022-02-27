@@ -263,6 +263,7 @@ Move to package.json
   "private": true,
   "dependencies": {....
   
+  
 // Change homepage to = "https://{YOUR_USER_NAME}.github.io/{REPO_NAME}/"  
 ```
 ```bash
