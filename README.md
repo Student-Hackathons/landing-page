@@ -1,5 +1,6 @@
 # Hackathon website Template ⚡️ 
 
+Check it out : https://student-hackathons.github.io/landing-page
 
 ## A clean and mobile responsive portfolio template for your upcoming hackathon!
 
